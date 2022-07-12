@@ -1,0 +1,43 @@
+Logging to ./log/
+--------------------------------
+| episode reward    | 2.27e+03 |
+| episode steps     | 262      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 5e-05    |
+--------------------------------
+--------------------------------
+| episode reward    | 1.06e+03 |
+| episode steps     | 143      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 0.0003   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.1e+03  |
+| episode steps     | 141      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 0.00055  |
+--------------------------------
+--------------------------------
+| episode reward    | 1.09e+03 |
+| episode steps     | 144      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 0.0008   |
+--------------------------------
+--------------------------------
+| episode reward    | 1.4e+03  |
+| episode steps     | 203      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 0.00105  |
+--------------------------------
+--------------------------------
+| episode reward    | 1.41e+03 |
+| episode steps     | 200      |
+| epsilon           | 0.15     |
+| Highest Score     | 128      |
+| training progress | 0.0013   |
+--------------------------------
